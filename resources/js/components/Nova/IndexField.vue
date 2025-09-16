@@ -1,5 +1,5 @@
 <template>
-    <div :class="`text-${field.textAlign}`">
+    <div :class="`text-${field.textAlign}`" style="display: flex">
         <IconBoolean
             v-for="day in normalizedWeek"
             :key="day.day"
