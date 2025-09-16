@@ -1,9 +1,9 @@
 # Nova Opening Hours Field
 
-[![Latest Stable Version](https://poser.pugx.org/sadekd/nova-opening-hours-field/v)](https://packagist.org/packages/sadekd/nova-opening-hours-field)
-[![Total Downloads](https://poser.pugx.org/sadekd/nova-opening-hours-field/downloads)](https://packagist.org/packages/sadekd/nova-opening-hours-field)
-[![License](https://poser.pugx.org/sadekd/nova-opening-hours-field/license)](https://packagist.org/packages/sadekd/nova-opening-hours-field)
-[![PHP Version Require](https://poser.pugx.org/sadekd/nova-opening-hours-field/require/php)](https://packagist.org/packages/sadekd/nova-opening-hours-field)
+[![Latest Stable Version](https://poser.pugx.org/ml-solutions-ltda/nova-opening-hours-field/v)](https://packagist.org/packages/ml-solutions-ltda/nova-opening-hours-field)
+[![Total Downloads](https://poser.pugx.org/ml-solutions-ltda/nova-opening-hours-field/downloads)](https://packagist.org/packages/ml-solutions-ltda/nova-opening-hours-field)
+[![License](https://poser.pugx.org/ml-solutions-ltda/nova-opening-hours-field/license)](https://packagist.org/packages/ml-solutions-ltda/nova-opening-hours-field)
+[![PHP Version Require](https://poser.pugx.org/ml-solutions-ltda/nova-opening-hours-field/require/php)](https://packagist.org/packages/ml-solutions-ltda/nova-opening-hours-field)
 
 [Laravel](https://laravel.com) [Nova](https://nova.laravel.com) custom field for [Spatie Opening Hours](https://github.com/spatie/opening-hours)
 
@@ -24,7 +24,7 @@
 You can install the package in to a [Laravel](https://laravel.com) app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require sadekd/nova-opening-hours-field
+composer require mlsolutions/nova-opening-hours-field
 ```
 
 ## Usage

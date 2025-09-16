@@ -8,7 +8,7 @@ use Laravel\Nova\Fields\ID;
 use Laravel\Nova\Fields\Password;
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Http\Requests\NovaRequest;
-use SadekD\NovaOpeningHoursField\NovaOpeningHoursField;
+use MlSolutions\NovaOpeningHoursField\NovaOpeningHoursField;
 
 class User extends Resource
 {

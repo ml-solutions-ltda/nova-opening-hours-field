@@ -1,6 +1,6 @@
 <?php
 
-namespace SadekD\NovaOpeningHoursField;
+namespace MlSolutions\NovaOpeningHoursField;
 
 use Illuminate\Validation\ValidationException;
 use Laravel\Nova\Fields\Field;
